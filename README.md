@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Gautam</h1>
-<h3 align="center">A passionate Problem solver and FrontendDeveloper</h3>
+<h3 align="center">A passionate Problem solver and FullStackDeveloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep111555&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep111555" /> </p>
 
